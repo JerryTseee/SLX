@@ -1,5 +1,6 @@
 """
 The code you provided implements the SLX (Select Larger or Equal) algorithm, which performs a binary search to find the smallest element in a sorted list A that is greater than or equal to x.
+using the method of binary search
 """
 def SLX(A, i, j, x):
     if i == j:
